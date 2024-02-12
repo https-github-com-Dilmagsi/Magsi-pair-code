@@ -1,1 +1,1 @@
-worker: cd sessions && rm -rf * && node .
+worker: cd sessions && rm -rf * && node . 
