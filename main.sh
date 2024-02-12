@@ -1,1 +1,1 @@
-echo Hello Prince
+echo Hello Magsi
