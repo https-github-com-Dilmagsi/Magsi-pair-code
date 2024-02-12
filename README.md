@@ -1,2 +1,2 @@
-# Prince-PairCode
+# Magsi-PairCode
 Pair code generator for whatsapp bots
